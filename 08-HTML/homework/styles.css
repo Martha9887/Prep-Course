@@ -1,0 +1,19 @@
+h1 {
+    color:darkolivegreen
+}
+
+img{
+   width: 400px; 
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: maroon;
+    padding: 50px;
+    border: mintcream 15px dotted ;
+
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px; 
+}
